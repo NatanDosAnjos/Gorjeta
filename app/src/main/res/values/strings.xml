@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Calculadora de Gorjeta</string>
+    <string name="app_name">Gorjeta</string>
     <string name="text_gorjeta">Gorjeta</string>
     <string name="text_total">Total</string>
     <string name="hint_plain_text">Digite um valor ex: 9.90</string>
